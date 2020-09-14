@@ -1,0 +1,34 @@
+.title
+{
+  text-align:center;
+}
+.black
+{
+  color:black;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   height: 250px;
+  width: 250px;
+
+}
+
+#text {
+  text-shadow: 2px 2px;
+}
+.para
+{
+  text-shadow:2px 2px 5px;
+
+}
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.red{
+  color:red;
+}
